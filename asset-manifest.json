@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MahmoodBawazir/react-unsplash-with-oauth/static/css/main.1c73e76a.chunk.css",
-    "main.js": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/main.df753395.chunk.js",
-    "main.js.map": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/main.df753395.chunk.js.map",
-    "runtime~main.js": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/runtime~main.a8cf3c87.js",
-    "runtime~main.js.map": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/runtime~main.a8cf3c87.js.map",
-    "static/css/2.370b656a.chunk.css": "/MahmoodBawazir/react-unsplash-with-oauth/static/css/2.370b656a.chunk.css",
-    "static/js/2.8eeaecbc.chunk.js": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/2.8eeaecbc.chunk.js",
-    "static/js/2.8eeaecbc.chunk.js.map": "/MahmoodBawazir/react-unsplash-with-oauth/static/js/2.8eeaecbc.chunk.js.map",
-    "index.html": "/MahmoodBawazir/react-unsplash-with-oauth/index.html",
-    "precache-manifest.880a21809177a73b6a977726befdeee9.js": "/MahmoodBawazir/react-unsplash-with-oauth/precache-manifest.880a21809177a73b6a977726befdeee9.js",
-    "service-worker.js": "/MahmoodBawazir/react-unsplash-with-oauth/service-worker.js",
-    "static/css/2.370b656a.chunk.css.map": "/MahmoodBawazir/react-unsplash-with-oauth/static/css/2.370b656a.chunk.css.map",
-    "static/css/main.1c73e76a.chunk.css.map": "/MahmoodBawazir/react-unsplash-with-oauth/static/css/main.1c73e76a.chunk.css.map",
-    "static/media/semantic.min.css": "/MahmoodBawazir/react-unsplash-with-oauth/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/react-unsplash-with-oauth/static/css/main.1c73e76a.chunk.css",
+    "main.js": "/react-unsplash-with-oauth/static/js/main.52dcd392.chunk.js",
+    "main.js.map": "/react-unsplash-with-oauth/static/js/main.52dcd392.chunk.js.map",
+    "runtime~main.js": "/react-unsplash-with-oauth/static/js/runtime~main.6c20b332.js",
+    "runtime~main.js.map": "/react-unsplash-with-oauth/static/js/runtime~main.6c20b332.js.map",
+    "static/css/2.7a6dd4da.chunk.css": "/react-unsplash-with-oauth/static/css/2.7a6dd4da.chunk.css",
+    "static/js/2.8eeaecbc.chunk.js": "/react-unsplash-with-oauth/static/js/2.8eeaecbc.chunk.js",
+    "static/js/2.8eeaecbc.chunk.js.map": "/react-unsplash-with-oauth/static/js/2.8eeaecbc.chunk.js.map",
+    "index.html": "/react-unsplash-with-oauth/index.html",
+    "precache-manifest.8d2a1772494d606ec20a421706a53eb7.js": "/react-unsplash-with-oauth/precache-manifest.8d2a1772494d606ec20a421706a53eb7.js",
+    "service-worker.js": "/react-unsplash-with-oauth/service-worker.js",
+    "static/css/2.7a6dd4da.chunk.css.map": "/react-unsplash-with-oauth/static/css/2.7a6dd4da.chunk.css.map",
+    "static/css/main.1c73e76a.chunk.css.map": "/react-unsplash-with-oauth/static/css/main.1c73e76a.chunk.css.map",
+    "static/media/semantic.min.css": "/react-unsplash-with-oauth/static/media/outline-icons.ef60a4f6.woff"
   }
 }

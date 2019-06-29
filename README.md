@@ -1,4 +1,19 @@
-### `npm start` or `yarn start`
+# Unsplash API with React
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installation
+
+```
+yarn install
+```
+
+### Start Dev Server
+
+```
+yarn start
+```
+
+### Features
+
+- Oauth Login Authentication
+- User profile pages
+- Search page
